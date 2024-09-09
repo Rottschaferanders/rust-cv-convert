@@ -38,7 +38,7 @@ itertools = '0.11.0'
 rand = '0.8.5'
 
 [dependencies]
-anyhow = '1.0.53'
+anyhow = '1'
 num-traits = '0.2.15'
 slice-of-array = '0.3.1'
 half = '2.3.1'
