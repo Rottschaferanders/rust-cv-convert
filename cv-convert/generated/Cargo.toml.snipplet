@@ -68,6 +68,13 @@ default-features = true
 features = []
 optional = true
 
+[dependencies.nalgebra_0-33]
+version = '0.33'
+package = 'nalgebra'
+default-features = true
+features = []
+optional = true
+
 [dependencies.opencv_0-91]
 version = '0.91'
 package = 'opencv'

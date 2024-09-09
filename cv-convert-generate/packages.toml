@@ -4,7 +4,7 @@ use_default_features = true
 features = []
 
 [package.nalgebra]
-versions = ["0.26", "0.27", "0.28", "0.29", "0.30", "0.31", "0.32"]
+versions = ["0.26", "0.27", "0.28", "0.29", "0.30", "0.31", "0.32", "0.33"]
 use_default_features = true
 features = []
 
