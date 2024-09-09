@@ -19,7 +19,8 @@ default = [
     'imageproc_0-23',
     'opencv_0-91',
     'tch_0-16',
-    'nalgebra_0-32',
+    # 'nalgebra_0-32',
+    'nalgebra_0-33',
     'ndarray_0-15',
 ]
 docs-only = [
@@ -386,6 +387,13 @@ optional = true
 
 [dependencies.nalgebra_0-32]
 version = '0.32'
+package = 'nalgebra'
+default-features = true
+features = []
+optional = true
+
+[dependencies.nalgebra_0-33]
+version = '0.33'
 package = 'nalgebra'
 default-features = true
 features = []
